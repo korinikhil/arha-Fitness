@@ -29,7 +29,7 @@ const arhaLinks = [
     title: 'ARHA FITNESS 24/7 GYM Ahmedabad, Gujarat', 
     description: 'Ahmedabad Branch', 
     iconUrl: '/fitness.png',
-    link: 'https://maps.app.goo.gl/KGXjdvxr3xNUAvKG6' 
+    link: 'https://share.google/ujrYqiMti7JPQTZlM' 
   },
 ];
 
